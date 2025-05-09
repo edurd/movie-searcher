@@ -36,7 +36,7 @@ This app is a Movie Searcher, it is a SwiftUI application that allows users to s
 2. Open the project in Xcode:
 
    ```bash
-   open movie_searcher.xcodeproj
+   open movie-searcher.xcodeproj
    ```
 
 3. Run the project on the simulator or a real device.
